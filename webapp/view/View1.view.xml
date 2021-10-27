@@ -4,6 +4,7 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
+					<Text text="Push request"/>
 					<Button text="Click me"/>
 					<Button text="Cancel"/>
 				</content>
